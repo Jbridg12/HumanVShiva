@@ -4,4 +4,6 @@ This project is a collaborative work between five developers to create a game su
 
 More details are included in the DesignDoc.pdf included in the repository.
 
-Josh
+
+Hope you Enjoy!
+- Josh
