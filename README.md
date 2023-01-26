@@ -6,4 +6,3 @@ More details are included in the DesignDoc.pdf included in the repository.
 
 
 Hope you Enjoy!
-- Josh
